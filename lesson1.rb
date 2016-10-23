@@ -26,7 +26,5 @@ class Lesson1
 
     result = "Hello #{name} #{surname} #{full_name}!"
     result
-   end
+  end
 end
-
-
